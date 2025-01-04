@@ -1,0 +1,41 @@
+# 💼 환경 변수 파일
+.env
+.env.local
+.env.development
+.env.production
+
+# 🛠️ Node.js 의존성
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🚀 빌드 결과물
+build/
+dist/
+.DS_Store
+
+# 📦 패키지 관리자 파일
+package-lock.json
+yarn.lock
+
+# 🧪 테스트 결과
+coverage/
+
+# 🔍 IDE 및 에디터 설정 파일
+.vscode/
+.idea/
+*.iml
+
+# 🗑️ 시스템 파일
+Thumbs.db
+.DS_Store
+
+# ⚙️ 로그 파일
+*.log
+logs
+debug.log
+
+# ⚠️ 기타 불필요한 파일
+*.bak
+*.swp
