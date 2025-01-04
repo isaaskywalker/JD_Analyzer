@@ -1,0 +1,33 @@
+{
+  "short_name": "JD분석기",
+  "name": "JD분석기 - 채용공고 분석 도구",
+  "description": "채용공고를 분석하고 맞춤형 포트폴리오 프롬프트를 생성하는 도구입니다.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 24x24 32x32 64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "dir": "ltr",
+  "lang": "ko",
+  "prefer_related_applications": false
+}
