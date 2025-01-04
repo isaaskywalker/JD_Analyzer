@@ -2,7 +2,6 @@
   "dependencies": {
     "react-scripts": "^5.0.1"
   },
-
   "name": "jd-analyzer",
   "version": "1.0.0",
   "private": true,
